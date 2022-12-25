@@ -1,2 +1,2 @@
-# Hello-World
+# Namaste-React
 New Repository
